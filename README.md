@@ -23,7 +23,6 @@ npm run dev
 
 ## 项目结构 ##
 ```
-
 |-- build                            // webpack配置文件
 |-- config                           // 项目打包路径
 |-- src                              // 源码目录 
@@ -47,7 +46,7 @@ npm run dev
 |       |-- index.js       
 |   |-- filter                       // 过滤器函数
 |       |-- filter.js            
-|   |-- public                       // 公共组件
+|   |-- public                  // 公共组件
 |       |-- Bscroll.vue              // 滚动组件
 |       |-- Confirm.vue              // 弹窗确认组件
 |       |-- Pickdate.vue             // 日期组件
