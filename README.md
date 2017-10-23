@@ -31,7 +31,7 @@ npm run dev
 |   |-- assets                       // 图片资源,js,css文件
 |   |-- components                   // 组件
 |       |-- Home.vue                 // 首页
-|       |-- Reader.vue           	   // 阅读
+|       |-- Reader.vue           	  // 阅读
 |       |-- Movie.vue                // 电影
 |       |-- Music.vue                // 音乐
 |       |-- Nba.vue                  // NBA
