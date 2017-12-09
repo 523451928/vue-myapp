@@ -16,7 +16,7 @@ npm run dev
 
 ## 运行演示
 
-#### 线上地址：http://mp.hks360.com:13001/myapp/
+#### 线上地址：http://mp.hks360.com:13001/myapp/#/music
 #### 移动端请扫描下面二维码：
 
 ![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fmp.hks360.com%253A13001%252Fmyapp%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=e5c6bb875620e56424509e3a2d30129d)
